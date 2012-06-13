@@ -1,0 +1,667 @@
+<start>
+	<files>
+		<files name="&#xADF8;&#xB798;&#xD53D;&#xC720;&#xD2F8;">
+			<icon>Application\1icones\movavi.ico</icon>
+			<file name="Adobe Photoshop CS3">
+				<path>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\Portable PhotoshopCS3 Extended\Portable PhotoShop.exe</path>
+				<icon>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\Portable PhotoshopCS3 Extended\Portable PhotoShop.exe</icon>
+				<runcount>19</runcount>
+				<rundate>2011/05/31 21:17:17</rundate>
+			</file>
+			<file name="Adobe Flash CS3">
+				<path>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\ADOBE FLASH CS3 PROFESSIONAL PORTABLE KO\ADOBE FLASH CS3 PORTABLE.exe</path>
+				<icon>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\ADOBE FLASH CS3 PROFESSIONAL PORTABLE KO\ADOBE FLASH CS3 PORTABLE.exe</icon>
+				<runcount>2</runcount>
+				<rundate>2009/12/17 15:17:45</rundate>
+			</file>
+			<file name="Adobe Photoshop Lightroom 1.4">
+				<path>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\LightroomPortable\LightroomPortable.exe</path>
+				<icon>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\LightroomPortable\LightroomPortable.exe</icon>
+				<runcount>4</runcount>
+				<rundate>2009/12/17 15:20:37</rundate>
+			</file>
+			<file name="[E]Adobe Dreamweaver CS4">
+				<path>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\DreamweaverPortable\DreamweaverPortable.exe</path>
+				<icon>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\DreamweaverPortable\DreamweaverPortable.exe</icon>
+				<runcount>1</runcount>
+				<rundate>2009/12/15 18:57:12</rundate>
+			</file>
+			<file name="[E]Adobe Illustrator CS3">
+				<path>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\Adobe Illustrator CS3\Illustrator.exe</path>
+				<runcount>6</runcount>
+				<rundate>2009/12/17 15:21:44</rundate>
+			</file>
+			<file name="[E]Adobe Fireworks">
+				<path>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\FireworksPortable\FireworksPortable.exe</path>
+				<icon>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\FireworksPortable\FireworksPortable.exe</icon>
+				<runcount>1</runcount>
+				<rundate>2009/12/17 15:23:12</rundate>
+			</file>
+			<file name="Paint.NET">
+				<path>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\Paint.NET v3.22\Paint.NET.exe</path>
+				<icon>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\Paint.NET v3.22\Paint.NET.exe</icon>
+				<runcount>1</runcount>
+				<rundate>2009/12/17 15:23:55</rundate>
+			</file>
+			<file name="AutoCAD 2007">
+				<path>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\Portable AutoCAD 2007 Korean.exe</path>
+				<icon>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\Portable AutoCAD 2007 Korean.exe</icon>
+				<runcount>4</runcount>
+				<rundate>2009/12/17 15:24:17</rundate>
+			</file>
+			<file name="Imagicon-&#xC774;&#xBBF8;&#xC9C0;&#xB97C; &#xC544;&#xC774;&#xCF58;&#xC73C;&#xB85C;">
+				<path>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\Portable_&#xC774;&#xBBF8;&#xC9C0;&#xB97C; &#xC544;&#xC774;&#xCF58;&#xC73C;&#xB85C;-Imagicon.exe</path>
+				<runcount>10</runcount>
+				<rundate>2009/12/17 15:25:04</rundate>
+			</file>
+			<file name="[E]ACDSee 9 Photo Manager">
+				<path>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\ACDSee.v9.0.108.Photo.Manager- Portable.exe</path>
+				<runcount>6</runcount>
+				<rundate>2012/02/21 09:52:38</rundate>
+			</file>
+			<file name="OpenCapture">
+				<path>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\Opencapture\opencapture_v1.3.4.exe</path>
+				<icon>Application\Utility\2.&#xADF8;&#xB798;&#xD53D; &#xC774;&#xBBF8;&#xC9C0;&#xD234;\Opencapture\opencapture_v1.3.4.exe</icon>
+				<runcount>2</runcount>
+				<rundate>2009/12/17 16:47:45</rundate>
+			</file>
+		</files>
+		<files name="&#xB3D9;&#xC601;&#xC0C1;&#xD3B8;&#xC9D1;">
+			<icon>Application\1icones\mpc.ico</icon>
+			<file name="CAMTASIA STUDIO V689">
+				<path>Application\Utility\3.&#xB3D9;&#xC601;&#xC0C1; &#xD3B8;&#xC9D1;\CAMTASIA STUDIO 6.0.0 V689 PORTABLE.exe</path>
+				<icon>Application\Utility\3.&#xB3D9;&#xC601;&#xC0C1; &#xD3B8;&#xC9D1;\CAMTASIA STUDIO 6.0.0 V689 PORTABLE.exe</icon>
+				<runcount>3</runcount>
+				<rundate>2009/12/17 15:25:37</rundate>
+			</file>
+			<file name="[E]Fraps -&#xAC8C;&#xC784;&#xB3D9;&#xC601;&#xC0C1; &#xCEA1;&#xCCD0;">
+				<path>Application\Utility\3.&#xB3D9;&#xC601;&#xC0C1; &#xD3B8;&#xC9D1;\Fraps 2.92\Fraps.exe</path>
+				<runcount>4</runcount>
+				<rundate>2010/07/06 16:38:58</rundate>
+			</file>
+			<file name="[E]MOVAVI Video Editor 4.0">
+				<path>Application\Utility\3.&#xB3D9;&#xC601;&#xC0C1; &#xD3B8;&#xC9D1;\Movavi Video Editor 4.0.5_Portable-&#xC601;&#xC0C1;&#xBCC0;&#xD658;,&#xD3B8;&#xC9D1;,&#xD14D;&#xC2A4;&#xD2B8;&#xC785;&#xB825;\Movavi Video Editor 4.exe</path>
+				<runcount>2</runcount>
+				<rundate>2010/07/03 18:12:37</rundate>
+			</file>
+			<file name="MOVAVI : Capture Screencast">
+				<path>Application\Utility\3.&#xB3D9;&#xC601;&#xC0C1; &#xD3B8;&#xC9D1;\Movavi Video Editor 4.0.5_Portable-&#xC601;&#xC0C1;&#xBCC0;&#xD658;,&#xD3B8;&#xC9D1;,&#xD14D;&#xC2A4;&#xD2B8;&#xC785;&#xB825;\ScreenCaptureME.exe</path>
+				<runcount>1</runcount>
+				<rundate>2009/12/17 15:27:07</rundate>
+			</file>
+			<file name="show - &#xB3D9;&#xC601;&#xC0C1;&#xBCC0;&#xD658;&#xAE30;">
+				<path>Application\Utility\3.&#xB3D9;&#xC601;&#xC0C1; &#xD3B8;&#xC9D1;\show\show.exe</path>
+				<icon>Application\Utility\3.&#xB3D9;&#xC601;&#xC0C1; &#xD3B8;&#xC9D1;\show\show.exe</icon>
+				<runcount>8</runcount>
+				<rundate>2010/06/20 13:28:12</rundate>
+			</file>
+		</files>
+		<files name="&#xBA40;&#xD2F0;&#xBBF8;&#xB514;&#xC5B4;">
+			<icon>Application\1icones\dvdrip.ico</icon>
+			<file name="&#xC5D4;&#xC824; &#xC778;&#xCF54;&#xB354; 2007">
+				<path>Application\Utility\4.&#xBA40;&#xD2F0;&#xBBF8;&#xB514;&#xC5B4;\&#xC5D4;&#xC824; &#xC778;&#xCF54;&#xB354; 2007\&#xC5D4;&#xC824; &#xC778;&#xCF54;&#xB354;.exe</path>
+				<runcount>6</runcount>
+				<rundate>2011/09/05 10:09:10</rundate>
+			</file>
+			<file name="GoldWave5.52 Digital Audio Editor">
+				<path>Application\Utility\4.&#xBA40;&#xD2F0;&#xBBF8;&#xB514;&#xC5B4;\Goldwave5.52-&#xC0AC;&#xC6B4;&#xB4DC;&#xD3B8;&#xC9D1;\goldwave.exe</path>
+				<runcount>4</runcount>
+				<rundate>2010/07/06 15:44:16</rundate>
+			</file>
+			<file name="MP3 Direct Cut - MP3 &#xD3B8;&#xC9D1;">
+				<path>Application\Utility\4.&#xBA40;&#xD2F0;&#xBBF8;&#xB514;&#xC5B4;\mp3DirectCut - MP3 &#xD3B8;&#xC9D1;\mp3DirectCut.exe</path>
+				<runcount>3</runcount>
+				<rundate>2009/12/17 15:29:52</rundate>
+			</file>
+			<file name="Xilisoft_AudioConverter">
+				<path>Application\Utility\4.&#xBA40;&#xD2F0;&#xBBF8;&#xB514;&#xC5B4;\Portable_Xilisoft_Audio_Converter_2.1.69.0718\AudioConverterPortable.exe</path>
+				<runcount>3</runcount>
+				<rundate>2009/12/17 15:29:55</rundate>
+			</file>
+			<file name="GomPlayer">
+				<path>Application\Utility\4.&#xBA40;&#xD2F0;&#xBBF8;&#xB514;&#xC5B4;\Portable_GomPlayer.exe</path>
+				<runcount>1</runcount>
+				<rundate>2009/12/17 15:30:01</rundate>
+			</file>
+			<file name="KMPlayer">
+				<path>Application\Utility\4.&#xBA40;&#xD2F0;&#xBBF8;&#xB514;&#xC5B4;\Portable KMPlayer 2.9.3.1431\KMPlayerPortable.exe</path>
+				<runcount>5</runcount>
+				<rundate>2009/12/17 15:30:25</rundate>
+			</file>
+			<file name="&#xAC1C;&#xAFC8;&#xB77C;&#xB514;&#xC624;">
+				<path>Application\Utility\4.&#xBA40;&#xD2F0;&#xBBF8;&#xB514;&#xC5B4;\&#xAC1C;&#xAFC8;&#xB77C;&#xB514;&#xC624;\dogradio60.exe</path>
+				<runcount>7</runcount>
+				<rundate>2011/09/05 10:09:32</rundate>
+			</file>
+			<file name="Winamp">
+				<path>Application\Utility\4.&#xBA40;&#xD2F0;&#xBBF8;&#xB514;&#xC5B4;\winamp_portable_5.531_lite_all\WinampPortable\WinampPortable.exe</path>
+				<runcount>2</runcount>
+				<rundate>2009/12/17 15:30:43</rundate>
+			</file>
+			<file name="Jet-Audio 7.1">
+				<path>Application\Utility\4.&#xBA40;&#xD2F0;&#xBBF8;&#xB514;&#xC5B4;\JetAudio 7.1.1 Build 3101 Plus VX Retail\JetAudio 7.1.1 Build 3101 Plus VX Retail.exe</path>
+				<runcount>5</runcount>
+				<rundate>2009/12/17 15:31:10</rundate>
+			</file>
+		</files>
+		<files name="&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;">
+			<icon>Application\1icones\word.ico</icon>
+			<file name="Lingoes-&#xB9CC;&#xB2A5;&#xBC88;&#xC5ED;">
+				<path>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\Lingoes\Lingoes.exe</path>
+				<runcount>6</runcount>
+				<rundate>2010/06/16 22:46:59</rundate>
+			</file>
+			<file name="YesForm &#xC11C;&#xC2DD;&#xCD1D;&#xB78C;">
+				<path>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\YesForm &#xC11C;&#xC2DD;&#xCD1D;&#xB78C;\YesForm &#xC11C;&#xC2DD;&#xCD1D;&#xB78C;.exe</path>
+				<runcount>2</runcount>
+				<rundate>2009/12/08 02:37:23</rundate>
+			</file>
+			<file name="&#xD2B9;&#xC218;&#xBB38;&#xC790; &#xC785;&#xB825;&#xAE30;">
+				<path>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\&#xD2B9;&#xC218;&#xBB38;&#xC790;&#xC785;&#xB825;&#xAE30;\&#xD2B9;&#xC218;&#xBB38;&#xC790;&#xC785;&#xB825;&#xAE30;.exe</path>
+				<icon>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\&#xD2B9;&#xC218;&#xBB38;&#xC790;&#xC785;&#xB825;&#xAE30;\&#xD2B9;&#xC218;&#xBB38;&#xC790;&#xC785;&#xB825;&#xAE30;.exe</icon>
+				<runcount>1</runcount>
+				<rundate>2009/12/12 00:29:35</rundate>
+			</file>
+			<file name="Adobe Acrobat 8.0">
+				<path>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\Adobe Acrobat 8.0 Pro\Acrobat.exe</path>
+				<runcount>4</runcount>
+				<rundate>2009/08/04 13:12:52</rundate>
+			</file>
+			<file name="Foxit Reader-PDF&#xB9AC;&#xB354;">
+				<path>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\FoxitReaderPortable\FoxitReaderPortable.exe</path>
+				<icon>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\FoxitReaderPortable\FoxitReaderPortable.exe</icon>
+				<runcount>3</runcount>
+				<rundate>2012/02/21 09:51:22</rundate>
+			</file>
+			<files name="&#xD55C;&#xAE00;&#xACFC;&#xCEF4;&#xD4E8;&#xD130;">
+				<icon>Application\1icones\Slicer Vista Icon 31.ico</icon>
+				<file name="&#xD55C;&#xCEF4; &#xD55C;&#xAE00; 2007">
+					<path>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\&#xD55C;&#xAE00;&#xACFC; &#xCEF4;&#xD4E8;&#xD130;\&#xD55C;&#xCEF4; &#xD55C;&#xAE00; 2007.exe</path>
+					<runcount>9</runcount>
+					<rundate>2010/10/22 11:10:53</rundate>
+				</file>
+				<file name="&#xD55C;&#xCEF4; &#xD0C0;&#xC790;&#xC5F0;&#xC2B5; 2007">
+					<path>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\&#xD55C;&#xAE00;&#xACFC; &#xCEF4;&#xD4E8;&#xD130;\&#xD55C;&#xCEF4; &#xD0C0;&#xC790;&#xC5F0;&#xC2B5; 2007.exe</path>
+					<runcount>1</runcount>
+					<rundate>2009/08/04 13:13:31</rundate>
+				</file>
+			</files>
+			<files name="MS OFFICE 2003(07&#xD638;&#xD658;)">
+				<icon>Application\1icones\Office.ico</icon>
+				<file name="Microsoft Office Excel">
+					<path>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\Microsoft Office SP3\Microsoft Office Excel 2003.exe</path>
+					<icon>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\Microsoft Office SP3\Microsoft Office Excel 2003.exe</icon>
+				</file>
+				<file name="Microsoft Office PowerPoint">
+					<path>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\Microsoft Office SP3\Microsoft Office PowerPoint 2003.exe</path>
+					<icon>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\Microsoft Office SP3\Microsoft Office PowerPoint 2003.exe</icon>
+				</file>
+				<file name="Microsoft Office Word">
+					<path>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\Microsoft Office SP3\Microsoft Office Word 2003.exe</path>
+					<icon>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\Microsoft Office SP3\Microsoft Office Word 2003.exe</icon>
+				</file>
+				<file name="Microsoft Office Picture Manager">
+					<path>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\Microsoft Office SP3\Microsoft Office Picture Manager.exe</path>
+					<icon>Application\Utility\1.&#xBB38;&#xC11C;&#xD3B8;&#xC9D1;\Microsoft Office SP3\Microsoft Office Picture Manager.exe</icon>
+				</file>
+			</files>
+		</files>
+		<files name="&#xBC31;&#xC2E0;">
+			<icon>Application\1icones\CP 45.ico</icon>
+			<file name="Norton Security Scan">
+				<path>Application\Utility\8.Vaccine\Norton Security Scan\Norton Security Scan.exe</path>
+				<runcount>2</runcount>
+				<rundate>2009/12/13 12:30:52</rundate>
+			</file>
+			<file name="Portable AlYac">
+				<path>Application\Utility\8.Vaccine\&#xC54C;&#xC57D;_Portable\Portable AlYac.exe</path>
+			</file>
+		</files>
+		<files name="&#xC555;&#xCD95;&#xC720;&#xD2F8;">
+			<icon>Application\1icones\Zip.ico</icon>
+			<file name="WinRAR 3.71">
+				<path>Application\Utility\5.&#xC555;&#xCD95; &#xC720;&#xD2F8;\Winrar 3.71.exe</path>
+				<runcount>4</runcount>
+				<rundate>2009/12/17 15:27:30</rundate>
+			</file>
+			<file name="ALZip 7.3">
+				<path>Application\Utility\5.&#xC555;&#xCD95; &#xC720;&#xD2F8;\&#xC54C;&#xC9D1; v7.3.exe</path>
+				<runcount>1</runcount>
+				<rundate>2009/12/17 15:29:04</rundate>
+			</file>
+			<file name="7-Zip Portable">
+				<path>Application\Utility\5.&#xC555;&#xCD95; &#xC720;&#xD2F8;\7Zip\7-ZipPortable.exe</path>
+				<runcount>5</runcount>
+				<rundate>2009/12/17 16:40:31</rundate>
+			</file>
+		</files>
+		<files name="&#xC6F9;">
+			<icon>Application\1icones\IE7.ico</icon>
+			<file name="Firefox V35">
+				<path>Application\Utility\10.&#xC6F9;\Mozilla Firefox 3.5 Portable\Mozilla Firefox.exe</path>
+				<icon>Application\Utility\10.&#xC6F9;\Mozilla Firefox 3.5 Portable\Mozilla Firefox.exe</icon>
+				<runcount>2</runcount>
+				<rundate>2012/01/02 17:21:05</rundate>
+			</file>
+			<file name="Google &#xD06C;&#xB86C;">
+				<path>Application\Utility\10.&#xC6F9;\ChromePortable\Google &#xD06C;&#xB86C;.exe</path>
+				<icon>Application\Utility\10.&#xC6F9;\ChromePortable\Google &#xD06C;&#xB86C;.exe</icon>
+				<runcount>6</runcount>
+				<rundate>2012/01/02 17:21:01</rundate>
+			</file>
+			<file name="Opera Internet Browser">
+				<path>Application\Utility\10.&#xC6F9;\Portable Opera 10.10 beta 1833\Opera.exe</path>
+				<icon>Application\Utility\10.&#xC6F9;\Portable Opera 10.10 beta 1833\Opera.exe</icon>
+				<runcount>5</runcount>
+				<rundate>2012/04/30 13:31:01</rundate>
+			</file>
+			<file name="&#x03BC;Torrent">
+				<path>Application\Utility\10.&#xC6F9;\utorrent\utorrent.exe</path>
+				<icon>Application\Utility\10.&#xC6F9;\utorrent\utorrent.exe</icon>
+				<runcount>1</runcount>
+				<rundate>2009/08/03 23:48:15</rundate>
+			</file>
+			<file name=" FlashGet-&#xB2E4;&#xC6B4;&#xB85C;&#xB4DC; &#xB9E4;&#xB2C8;&#xC800;">
+				<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xD30C;&#xC77C;&#xAD00;&#xB9AC;\FlashGet Ver 1.9.6.1073  - &#xB2E4;&#xC6B4;&#xB85C;&#xB4DC; &#xB9E4;&#xB2C8;&#xC800;\Portable FlashGet.exe</path>
+				<runcount>1</runcount>
+				<rundate>2009/12/11 19:08:26</rundate>
+			</file>
+			<file name="NetTransport v2.86">
+				<path>Application\Utility\10.&#xC6F9;\NetTransport 2.86_kr.exe</path>
+				<icon>Application\Utility\10.&#xC6F9;\NetTransport 2.86_kr.exe</icon>
+				<runcount>1</runcount>
+				<rundate>2009/12/15 16:06:57</rundate>
+			</file>
+			<file name="RapidShare AutoDownloader">
+				<path>Application\Utility\10.&#xC6F9;\Rapidshare Auto Downloader_V362\Rapidshare Auto Downloader.exe</path>
+				<icon>Application\Utility\10.&#xC6F9;\Rapidshare Auto Downloader_V362\Rapidshare Auto Downloader.exe</icon>
+				<runcount>3</runcount>
+				<rundate>2009/12/17 15:08:32</rundate>
+			</file>
+		</files>
+		<files name="&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C; &#xAD00;&#xB9AC;">
+			<icon>Application\1icones\DD 02.ico</icon>
+			<files name="&#xD30C;&#xC77C;&#xAD00;&#xB9AC;">
+				<icon>Application\1icones\floppy.ico</icon>
+				<file name=" Beyond Compare -&#xD30C;&#xC77C;/&#xD3F4;&#xB354; &#xB3D9;&#xAE30;&#xD654;">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xD30C;&#xC77C;&#xAD00;&#xB9AC;\Portable Beyond Compare v2.5.3\Portable Beyond Compare v2.5.3.exe</path>
+					<runcount>1</runcount>
+					<rundate>2009/07/05 03:57:26</rundate>
+				</file>
+				<file name="TotalCommander 7.50 final">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xD30C;&#xC77C;&#xAD00;&#xB9AC;\Total Commander 7.50 Final Portable\TOTALCMD.EXE</path>
+					<icon>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xD30C;&#xC77C;&#xAD00;&#xB9AC;\Total Commander 7.50 Final Portable\TOTALCMD.EXE</icon>
+					<runcount>1</runcount>
+					<rundate>2009/12/17 15:32:08</rundate>
+				</file>
+				<file name="Freeware file manager ">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xD30C;&#xC77C;&#xAD00;&#xB9AC;\FreeCommander 2007.10 - &#xD30C;&#xC77C;&#xAD00;&#xB9AC;\FreeCommander.exe</path>
+					<runcount>6</runcount>
+					<rundate>2012/04/30 14:16:01</rundate>
+				</file>
+				<file name="Unlocker v1.8.7-&#xAC15;&#xC81C; &#xC0AD;&#xC81C;">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xD30C;&#xC77C;&#xAD00;&#xB9AC;\Unlocker v1.8.7 - &#xC548;&#xC9C0;&#xC6CC;&#xC9C0;&#xB294; &#xD30C;&#xC77C; &#xC9C0;&#xC6B0;&#xAE30;\Unlocker v1.8.7.exe</path>
+					<runcount>9</runcount>
+					<rundate>2012/02/20 16:13:09</rundate>
+				</file>
+				<file name="Recuva v1.13.304 -&#xD30C;&#xC77C; &#xBCF5;&#xAD6C;">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xD30C;&#xC77C;&#xAD00;&#xB9AC;\Recuva v1.13.304 -&#xD30C;&#xC77C; &#xBCF5;&#xAD6C;.exe</path>
+					<runcount>3</runcount>
+					<rundate>2010/10/06 11:08:09</rundate>
+				</file>
+				<file name="FastCopy-&#xB300;&#xC6A9;&#xB7C9; &#xD30C;&#xC77C;&#xBCF5;&#xC0AC;">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xD30C;&#xC77C;&#xAD00;&#xB9AC;\&#xD55C;&#xAD6D;&#xC5B4; FastCopy\FastCopy.exe</path>
+					<icon>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xD30C;&#xC77C;&#xAD00;&#xB9AC;\&#xD55C;&#xAD6D;&#xC5B4; FastCopy\FastCopy.exe</icon>
+					<runcount>8</runcount>
+					<rundate>2012/04/27 08:58:39</rundate>
+				</file>
+				<file name="TeraCopy-&#xB9CE;&#xC740; &#xD30C;&#xC77C; &#xBCF5;&#xC0AC;">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xD30C;&#xC77C;&#xAD00;&#xB9AC;\TeraCopy Portable\TeraCopy.exe</path>
+					<icon>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xD30C;&#xC77C;&#xAD00;&#xB9AC;\TeraCopy Portable\TeraCopy.exe</icon>
+					<runcount>8</runcount>
+					<rundate>2012/04/27 08:58:36</rundate>
+				</file>
+				<file name="[E]UltimateDefrag2008 - &#xBE60;&#xB978; &#xC870;&#xAC01;&#xBAA8;&#xC74C;">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\UltimateDefrag2008 Portable-&#xBE60;&#xB978;&#xC870;&#xAC01;&#xBAA8;&#xC74C;\UltimateDefrag2008_Portable.exe</path>
+					<runcount>4</runcount>
+					<rundate>2010/07/04 00:06:08</rundate>
+				</file>
+				<file name="[E]Norton Partition Magic 8.05">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\Norton Partition Magic 8.05\autorun.exe</path>
+					<runcount>1</runcount>
+					<rundate>2009/12/17 15:34:36</rundate>
+				</file>
+				<file name="&#xBB34;&#xB364;1.5-&#xD3F4;&#xB354; &#xC7A0;&#xAE08;">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xBB34;&#xB364;1.5.exe</path>
+					<icon>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xBB34;&#xB364;1.5.exe</icon>
+					<runcount>9</runcount>
+					<rundate>2011/09/05 10:03:34</rundate>
+				</file>
+			</files>
+			<files name="&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;">
+				<icon>Application\1icones\Portable.ico</icon>
+				<file name="CCleaner 2.22.968 - &#xC2DC;&#xC2A4;&#xD15C; &#xCD5C;&#xC801;&#xD654;">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\CCleaner 2.22.968\CCleaner.exe</path>
+					<runcount>2</runcount>
+					<rundate>2011/09/05 09:51:38</rundate>
+				</file>
+				<file name="EzClean AS24 - &#xC2DC;&#xC2A4;&#xD15C; &#xCD5C;&#xC801;&#xD654; &#xB3C4;&#xAD6C;">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\EzClean AS24 - &#xC2DC;&#xC2A4;&#xD15C; &#xCD5C;&#xC801;&#xD654; &#xB3C4;&#xAD6C;.exe</path>
+					<runcount>5</runcount>
+					<rundate>2012/02/21 09:55:31</rundate>
+				</file>
+				<file name="YOUR UNINSTALLER 6.3">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\URUNINST\YOUR UNINSTALLER 6.3.2009.13 PORTABLE.exe</path>
+					<runcount>5</runcount>
+					<rundate>2012/02/21 09:53:08</rundate>
+				</file>
+				<file name="Everest Ultimate5.02 -&#xC2DC;&#xC2A4;&#xD15C; &#xC815;&#xBCF4;&#xAD00;&#xB9AC;">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\Everest_ultimate_5.02.1771\Everest Ultimate 5.02.1771.exe</path>
+					<runcount>3</runcount>
+					<rundate>2012/02/21 09:49:48</rundate>
+				</file>
+				<file name="CPU-Z">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\cpuz.exe</path>
+					<runcount>2</runcount>
+					<rundate>2011/09/05 09:58:04</rundate>
+				</file>
+				<file name="GPU-Z">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\GPU-Z.0.3.6.exe</path>
+					<runcount>1</runcount>
+					<rundate>2011/09/05 09:57:49</rundate>
+				</file>
+				<file name="KCleaner-&#xD504;&#xB85C;&#xC138;&#xC2A4; &#xC885;&#xB8CC;">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\KCleaner.exe</path>
+					<icon>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\KCleaner.exe</icon>
+					<runcount>4</runcount>
+					<rundate>2012/02/21 09:51:01</rundate>
+				</file>
+				<file name="3DP Chip - &#xB4DC;&#xB77C;&#xC774;&#xBC84; &#xCC3E;&#xAE30;">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\Driver&#xCC3E;&#xAE30;-3dp\3DP_Chip_v907b30.exe</path>
+					<runcount>2</runcount>
+					<rundate>2009/12/11 18:16:04</rundate>
+				</file>
+				<file name="WinKey Killer - &#xC708;&#xB3C4;&#xC6B0;&#xD0A4; &#xBE14;&#xB7ED;">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\wkeykill - &#xC708;&#xB3C4;&#xC6B0;&#xD0A4; &#xBE14;&#xB7ED;\WKeyKill.exe</path>
+					<runcount>6</runcount>
+					<rundate>2009/12/11 18:03:37</rundate>
+				</file>
+				<file name="[E]Symantec Ghost">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\Ghost 11.0.0.1502\Ghost32.exe</path>
+					<runcount>5</runcount>
+					<rundate>2009/12/17 15:35:33</rundate>
+				</file>
+				<file name="[E]Symantec Ghost Explorer">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\Ghost 11.0.0.1502\Ghostexp.exe</path>
+					<runcount>2</runcount>
+					<rundate>2009/12/17 15:35:56</rundate>
+				</file>
+				<file name="[E]Symantec GhostCast Server for Windows">
+					<path>Application\Utility\6.&#xD30C;&#xC77C; &#xBC0F; &#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\&#xC2DC;&#xC2A4;&#xD15C;&#xAD00;&#xB9AC;\Ghost 11.0.0.1502\GhostSrv.exe</path>
+					<runcount>2</runcount>
+					<rundate>2009/12/17 15:36:16</rundate>
+				</file>
+			</files>
+		</files>
+		<files name="CD-DVD">
+			<icon>Application\1icones\Nero.ico</icon>
+			<file name="UltraISO Premium 9.12">
+				<path>Application\Utility\7.CD-DVD\UltraISO v9.12\UltraISO.exe</path>
+				<runcount>2</runcount>
+				<rundate>2009/12/17 15:36:32</rundate>
+			</file>
+			<file name="PowerISO">
+				<path>Application\Utility\7.CD-DVD\Portable_PowerISO_4.2.exe</path>
+				<runcount>2</runcount>
+				<rundate>2009/12/17 15:36:40</rundate>
+			</file>
+			<file name="Nero Burning ROM 9 Portable">
+				<path>Application\Utility\7.CD-DVD\NeroBurningROMPortable\NeroBurningROMPortable.exe</path>
+				<icon>Application\Utility\7.CD-DVD\NeroBurningROMPortable\NeroBurningROMPortable.exe</icon>
+				<runcount>3</runcount>
+				<rundate>2008/12/24 16:39:40</rundate>
+			</file>
+			<file name="Nero Express 9 Portable">
+				<path>Application\Utility\7.CD-DVD\NeroBurningROMPortable\NeroExpressPortable.exe</path>
+				<icon>Application\Utility\7.CD-DVD\NeroBurningROMPortable\NeroExpressPortable.exe</icon>
+				<runcount>2</runcount>
+				<rundate>2009/12/17 16:39:26</rundate>
+			</file>
+			<file name="Nero DiscSpeed 5 Portable">
+				<path>Application\Utility\7.CD-DVD\NeroBurningROMPortable\NeroDiscSpeedPortable.exe</path>
+				<icon>Application\Utility\7.CD-DVD\NeroBurningROMPortable\NeroDiscSpeedPortable.exe</icon>
+				<runcount>1</runcount>
+				<rundate>2008/12/24 15:37:45</rundate>
+			</file>
+			<file name="Nero InfoTool Portable">
+				<path>Application\Utility\7.CD-DVD\NeroBurningROMPortable\NeroInfoToolPortable.exe</path>
+				<icon>Application\Utility\7.CD-DVD\NeroBurningROMPortable\NeroInfoToolPortable.exe</icon>
+				<runcount>1</runcount>
+				<rundate>2009/12/17 15:37:56</rundate>
+			</file>
+		</files>
+		<files name="Others">
+			<icon>Application\1icones\Base 3.exe</icon>
+			<file name="NATEON 4.0.3">
+				<path>Application\Utility\9.Others\Nateon_v403_portable\&#xB124;&#xC774;&#xD2B8;&#xC628;.exe</path>
+				<icon>Application\Utility\9.Others\Nateon_v403_portable\&#xB124;&#xC774;&#xD2B8;&#xC628;.exe</icon>
+				<runcount>3</runcount>
+				<rundate>2012/02/21 09:56:54</rundate>
+			</file>
+			<file name="Microsoft Visual Basic 6.0">
+				<path>Application\Utility\9.Others\Visual Basic 6.0 SP6 KOR\Microsoft Visual Basic.EXE</path>
+				<runcount>1</runcount>
+				<rundate>2009/12/17 15:38:35</rundate>
+			</file>
+			<file name="VirtualBox 3.1">
+				<path>Application\Utility\9.Others\Portable-VirtualBox\Portable-VirtualBox.exe</path>
+				<icon>Application\Utility\9.Others\Portable-VirtualBox\Portable-VirtualBox.exe</icon>
+				<runcount>3</runcount>
+				<rundate>2011/09/05 10:03:46</rundate>
+			</file>
+			<file name="unitsconv-&#xB2E8;&#xC704;&#xD658;&#xC0B0;">
+				<path>Application\Utility\9.Others\unitsconv.exe</path>
+				<icon>Application\Utility\9.Others\unitsconv.exe</icon>
+				<runcount>2</runcount>
+				<rundate>2012/02/21 09:57:10</rundate>
+			</file>
+		</files>
+	</files>
+	<notes>
+		<note name="Portable USB 2009 2.1">
+			<text>Portable USB 2009 2.1&#xC744; &#xC774;&#xC6A9;&#xD574; &#xC8FC;&#xC154;&#xC11C; 
+&#xAC10;&#xC0AC;&#xD569;&#xB2C8;&#xB2E4;.
+
+**&#xC720;&#xC800;&#xBD84;&#xB4E4;&#xC758; &#xC758;&#xACAC;&#xC218;&#xB834;**
+-&#xAE30;&#xC874; &#xBC84;&#xC804;&#xC744; &#xB300;&#xD3ED; &#xAC1C;&#xC120;&#xD558;&#xACE0;, &#xC790;&#xB8CC; &#xC694;&#xCCAD;&#xD558;&#xC2DC;&#xB294; 
+&#xC720;&#xC800;&#xBD84;&#xB4E4;&#xC758; &#xC758;&#xACAC;&#xC744; &#xCD5C;&#xB300;&#xD55C; &#xBC18;&#xC601;&#xD558;&#xC600;&#xC2B5;&#xB2C8;&#xB2E4;.
+
+**USB 4G&#xC5D0; &#xD734;&#xB300;**
+-&#xC77C;&#xBC18;&#xC801;&#xC73C;&#xB85C; 4G&#xC6A9;&#xB7C9;&#xC758; USB&#xB97C; &#xB9CE;&#xC774; &#xC0AC;&#xC6A9;&#xD558;&#xBBC0;&#xB85C;,
+&#xADF8; &#xC6A9;&#xB7C9;&#xC5D0; &#xB9DE;&#xCD94;&#xB824;&#xACE0;, &#xB178;&#xB825;&#xD558;&#xC600;&#xC2B5;&#xB2C8;&#xB2E4;.
+
+**&#xAC04;&#xD3B8; &#xC6A9;&#xB7C9; &#xC904;&#xC774;&#xAE30;**
+-Utility&#xD3F4;&#xB354; &#xC548;&#xC5D0;&#xC11C; &#xC798; &#xC548;&#xC4F0;&#xC2DC;&#xB294; &#xD3F4;&#xB354;&#xB97C; &#xC0AD;&#xC81C;&#xD558;&#xC5EC;,
+&#xC6A9;&#xB7C9;&#xC744; &#xB354; &#xC904;&#xC77C;&#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.
+
+**&#xAE30;&#xD0C0;**
+-&#xC6A9;&#xB7C9;&#xC5D0; &#xB9DE;&#xCD94;&#xB824; &#xD558;&#xB2E4;&#xBCF4;&#xB2C8;, 
+Sony Vegas, Office2010,...&#xB4F1;&#xB4F1; &#xD070; &#xC720;&#xD2F8;&#xC744;
+&#xD0D1;&#xC7AC;&#xD558;&#xC9C0; &#xBABB;&#xD588;&#xC2B5;&#xB2C8;&#xB2E4;. &#xBCC4;&#xB3C4;&#xB85C; &#xAC8C;&#xC2DC;&#xD558;&#xACA0;&#xC2B5;&#xB2C8;&#xB2E4;.
+
+&#xD504;&#xB85C;&#xADF8;&#xB7A8; &#xCD9C;&#xCC98;:&#xC7C8;&#xB2C8;
+&#xAC1C;&#xC870;:&#xBCF4;&#xB77C;&#xB3CC;&#xC544;&#xC774;</text>
+		</note>
+		<separator>
+		</separator>
+		<note name="[ &#xC2E4;&#xD589;&#xC2DC; &#xC8FC;&#xC758;&#xC0AC;&#xD56D; ]">
+			<text>1. &#xBCF8; &#xD504;&#xB85C;&#xADF8;&#xB7A8;&#xB4E4;&#xC740; &#xC708;&#xB3C4;&#xC6B0;XP 32bit&#xD658;&#xACBD;&#xC5D0;&#xC11C; &#xC81C;&#xC791;&#xB418;&#xC5C8;&#xC2B5;&#xB2C8;&#xB2E4;. 
+    - &#xD0C0; OS&#xC5D0;&#xC11C;&#xB294; &#xC77C;&#xBD80; &#xD504;&#xB85C;&#xADF8;&#xB7A8;&#xC774; &#xB3D9;&#xC791;&#xD558;&#xC9C0; &#xC54A;&#xC744;&#xC218;&#xB3C4; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.
+
+2. Office2003&#xC758; &#xACBD;&#xC6B0;, &#xC2E4;&#xD589;&#xC2DC; &#xC124;&#xCE58;&#xCC3D;&#xC774; &#xB728;&#xC9C0;&#xB9CC;, &#xCDE8;&#xC18C;&#xD558;&#xC2DC;&#xBA74; &#xB429;&#xB2C8;&#xB2E4;.
+
+3. &#xD3F4;&#xB354;&#xC7A0;&#xAE08; &#xBB34;&#xB364; &#xD504;&#xB85C;&#xADF8;&#xB7A8;&#xC744; &#xC2E4;&#xD589;&#xD558;&#xBA74; &#xBE44;&#xBC88; &#xC785;&#xB825;&#xD558;&#xB77C;&#xACE0; &#xB728;&#xB294;&#xB370;, &#xC774;&#xB54C; &#xC77C;&#xB2E8;  0&#xC744; &#xB20C;&#xB7EC;&#xC8FC;&#xC2DC;&#xACE0; &#xBB34;&#xB364;&#xC9C0;&#xAE30;&#xC5D0;&#xC11C; &#xBE44;&#xBC88;&#xC744; &#xBCC0;&#xACBD;&#xD558;&#xC2DC;&#xBA74; &#xB429;&#xB2C8;&#xB2E4;.
+
+4.[E]&#xD45C;&#xC2DC;&#xAC00; &#xB41C; &#xD30C;&#xC77C;&#xB4E4;&#xC740; &#xC601;&#xBB38; &#xD30C;&#xC77C;&#xC785;&#xB2C8;&#xB2E4;. &#xC0AC;&#xC6A9;&#xBC95;&#xC774; &#xC26C;&#xC6B4; &#xD504;&#xB85C;&#xADF8;&#xB7A8;&#xC740; &#xC601;&#xBB38;&#xC774;&#xB77C;&#xB3C4; &#xD45C;&#xAE30;&#xD558;&#xC9C0; &#xC54A;&#xC558;&#xC2B5;&#xB2C8;&#xB2E4;.
+
+5. &#xBA87;&#xBA87; &#xD504;&#xB85C;&#xADF8;&#xB7A8;&#xC758; &#xC0C8; &#xBC84;&#xC83C;&#xC774; &#xC788;&#xC744; &#xACBD;&#xC6B0; &#xC5C5;&#xB370;&#xC774;&#xD2B8; &#xD655;&#xC778;&#xCC3D;&#xC774; &#xB730; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. &#xC774;&#xB54C; &#xACBD;&#xB85C;&#xAC00; &#xC798;&#xBABB; &#xC124;&#xCE58;&#xB420; &#xC218; &#xC788;&#xC73C;&#xBBC0;&#xB85C; &#xCDE8;&#xC18C;&#xB97C; &#xAD8C;&#xC7A5;&#xD569;&#xB2C8;&#xB2E4;.</text>
+			<color>DEFFA0h</color>
+		</note>
+		<note name="[OTHER]">
+			<text>-CAMTASIA &#xD504;&#xB85C;&#xADF8;&#xB7A8;&#xC740; &#xCC98;&#xC74C; &#xC2E4;&#xD589;&#xD558;&#xC2E4; &#xB54C; &#xC778;&#xC99D; &#xC808;&#xCC28;&#xB97C; &#xD55C;&#xBC88; &#xAC70;&#xCCD0;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;. &#xC544;&#xB798; CDKEY&#xB97C; &#xB123;&#xACE0; &#xB4F1;&#xB85D;&#xD574; &#xC8FC;&#xC138;&#xC694;.
+CAMTASIA STUDIO 6.0.0 V689
+  FSJMD-X5E5B-FN75C-B7N49-M9B33
+
+-NERO 9&#xB294; &#xC778;&#xC99D;&#xCC3D;&#xC774; &#xB728;&#xC9C0;&#xB9CC; &#xADF8;&#xB0E5; &#xACC4;&#xC18D;&#xD558;&#xC2DC;&#xBA74; &#xB429;&#xB2C8;&#xB2E4;.
+
+-&#xCC98;&#xC74C; &#xC2DC;&#xC791;&#xD560; &#xB54C; [E]&#xD45C;&#xAE30;&#xAC00; &#xB418;&#xC9C0; &#xC54A;&#xC740; &#xAC83; &#xC911; &#xC601;&#xC5B4;&#xC778; &#xD504;&#xB85C;&#xADF8;&#xB7A8;&#xC774; &#xC788;&#xC744; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. &#xC774;&#xB54C;&#xB294; Options&#xC774;&#xB098; Settings&#xBA54;&#xB274; &#xB4F1;&#xC744; &#xC0AC;&#xC6A9;&#xD558;&#xC5EC; &#xD55C;&#xAE00;&#xB85C; &#xBC14;&#xAFD4;&#xC8FC;&#xC2DC;&#xBA74; &#xB429;&#xB2C8;&#xB2E4;.
+</text>
+			<color>7AAC1Ch</color>
+		</note>
+	</notes>
+	<colors>
+		<color name="0">
+			<value>A0A0FFh</value>
+		</color>
+		<color name="1">
+			<value>A0C0FFh</value>
+		</color>
+		<color name="2">
+			<value>A0FFFFh</value>
+		</color>
+		<color name="3">
+			<value>A0FFA0h</value>
+		</color>
+		<color name="4">
+			<value>A0A0FFh</value>
+		</color>
+	</colors>
+	<configurationfile>
+		<backupmode>pbmKeepRecent</backupmode>
+	</configurationfile>
+	<execution>
+		<count>72</count>
+		<overalltime>5487:37:32.412</overalltime>
+	</execution>
+	<general>
+		<executionaction>0</executionaction>
+		<language>english</language>
+		<singleclick>False</singleclick>
+	</general>
+	<history>
+		<usernames>
+		</usernames>
+	</history>
+	<info>
+		<visible>True</visible>
+	</info>
+	<menu>
+		<hotkeysvisible>True</hotkeysvisible>
+	</menu>
+	<mouse>
+		<sensors>
+			<bottom>
+				<leftaction>0</leftaction>
+				<rightaction>0</rightaction>
+			</bottom>
+			<bottomleft>
+				<leftaction>0</leftaction>
+				<rightaction>0</rightaction>
+			</bottomleft>
+			<bottomright>
+				<leftaction>0</leftaction>
+				<rightaction>0</rightaction>
+			</bottomright>
+			<cornersize>20</cornersize>
+			<left>
+				<leftaction>0</leftaction>
+				<rightaction>0</rightaction>
+			</left>
+			<monitor>1</monitor>
+			<right>
+				<leftaction>0</leftaction>
+				<rightaction>0</rightaction>
+			</right>
+			<top>
+				<leftaction>0</leftaction>
+				<rightaction>0</rightaction>
+			</top>
+			<topleft>
+				<leftaction>0</leftaction>
+				<rightaction>0</rightaction>
+			</topleft>
+			<topright>
+				<leftaction>0</leftaction>
+				<rightaction>0</rightaction>
+			</topright>
+		</sensors>
+	</mouse>
+	<note>
+		<alarm>
+			<notify>
+				<autoclose>False</autoclose>
+				<duration>10</duration>
+				<sound></sound>
+			</notify>
+			<recenttime>2009/08/04 11:07:37</recenttime>
+		</alarm>
+		<defaultcolor>7AAC1Ch</defaultcolor>
+		<style>1</style>
+		<visible>True</visible>
+		<wordbreak>1</wordbreak>
+	</note>
+	<panel>
+		<closemode>0</closemode>
+		<hotkey>False</hotkey>
+		<hotkeyclose>True</hotkeyclose>
+		<hotkeycode>15</hotkeycode>
+		<hotkeymodifier>7</hotkeymodifier>
+		<pageindex>0</pageindex>
+		<position>0</position>
+		<showonstartup>True</showonstartup>
+		<staticsize>False</staticsize>
+		<title>Portable USB 2010 III</title>
+	</panel>
+	<search>
+		<allusersstartmenu>True</allusersstartmenu>
+		<colorize>True</colorize>
+		<colors>
+			<allusersstartmenu>0000FFh</allusersstartmenu>
+			<currentuserstartmenu>0000FFh</currentuserstartmenu>
+			<pstart>B39B2Fh</pstart>
+		</colors>
+		<currentuserstartmenu>True</currentuserstartmenu>
+		<includemode>0</includemode>
+		<pstart>True</pstart>
+		<sort>0</sort>
+	</search>
+	<style>
+		<additionaltextcolor>18DDEBh</additionaltextcolor>
+		<backgroundimage>Application\1icones\Skins\Background00.JPG</backgroundimage>
+		<captioncolor>FFFFFFh</captioncolor>
+		<iconsize>0</iconsize>
+		<iteminfomode>0</iteminfomode>
+	</style>
+	<tray>
+		<doubleclick>1</doubleclick>
+		<hotkey>False</hotkey>
+		<hotkeycode>12</hotkeycode>
+		<hotkeymodifier>7</hotkeymodifier>
+		<hover>0</hover>
+		<iconimage>2</iconimage>
+		<iconvisibility>0</iconvisibility>
+		<leftclick>1</leftclick>
+	</tray>
+	<window>
+		<main>
+			<position>
+				<x>1096</x>
+				<y>68</y>
+			</position>
+			<size>
+				<x>440</x>
+				<y>780</y>
+			</size>
+		</main>
+	</window>
+</start>
